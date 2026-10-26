@@ -1,0 +1,9 @@
+{
+  "name": "Canal: Chester",
+  "short_name": "Canal",
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#1f4d3a",
+  "theme_color": "#1f4d3a"
+}
